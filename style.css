@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(61, 23, 230);
+  text-align: center;
+  font-family: sans-serif;
+  position: relative;
+  top: 120px;
+  
+}
+
+body {
+  background-color: skyblue;
+}
